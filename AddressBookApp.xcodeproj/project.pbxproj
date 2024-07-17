@@ -13,6 +13,8 @@
 		04F0BF242C46864700596FF9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 04F0BF232C46864700596FF9 /* Base */; };
 		04F0BF262C46864800596FF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F0BF252C46864800596FF9 /* Assets.xcassets */; };
 		04F0BF292C46864800596FF9 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 04F0BF282C46864800596FF9 /* Base */; };
+		04F0BF312C46872A00596FF9 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F0BF302C46872A00596FF9 /* Friend.swift */; };
+		04F0BF332C46874300596FF9 /* FriendCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F0BF322C46874300596FF9 /* FriendCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		04F0BF252C46864800596FF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F0BF282C46864800596FF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F0BF2A2C46864800596FF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F0BF302C46872A00596FF9 /* Friend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
+		04F0BF322C46874300596FF9 /* FriendCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				04F0BF1C2C46864700596FF9 /* AppDelegate.swift */,
 				04F0BF1E2C46864700596FF9 /* SceneDelegate.swift */,
 				04F0BF202C46864700596FF9 /* ViewController.swift */,
+				04F0BF302C46872A00596FF9 /* Friend.swift */,
+				04F0BF322C46874300596FF9 /* FriendCell.swift */,
 				04F0BF222C46864700596FF9 /* Main.storyboard */,
 				04F0BF252C46864800596FF9 /* Assets.xcassets */,
 				04F0BF272C46864800596FF9 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				04F0BF212C46864700596FF9 /* ViewController.swift in Sources */,
 				04F0BF1D2C46864700596FF9 /* AppDelegate.swift in Sources */,
 				04F0BF1F2C46864700596FF9 /* SceneDelegate.swift in Sources */,
+				04F0BF312C46872A00596FF9 /* Friend.swift in Sources */,
+				04F0BF332C46874300596FF9 /* FriendCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
